@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27Chaos",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		}
+	]
 }

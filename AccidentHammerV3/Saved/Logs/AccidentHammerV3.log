@@ -1306,3 +1306,744 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.08-21.18.20:083][302]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap9C82C35245990DAC713C7BAF4597038A.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2023.02.08-21.18.20:113][302]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.02.08-21.18.20:113][302]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.26.43:140][137]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.08-21.26.43:154][137]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.08-21.26.44:415][192]LogContentBrowser: Attempting asset rename: NewFolder -> Wood
+[2023.02.08-21.26.44:417][192]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.08-21.27.03:086][566]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH.fbx)
+[2023.02.08-21.27.03:130][566]LogFbx: Loading FBX Scene from ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH.fbx
+[2023.02.08-21.27.03:152][566]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.08-21.27.06:568][566]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.08-21.27.06:618][566]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B503C93FECA483BDD66B95D4A2BDB1C3F6171EEC), compiling. 
+[2023.02.08-21.27.06:633][566]LogFbx: Display: Triangulating static mesh WoodFire
+[2023.02.08-21.27.06:651][566]LogStaticMesh: Building static mesh FireWoodPUSH...
+[2023.02.08-21.27.06:669][566]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Wood/FireWoodPUSH.FireWoodPUSH
+[2023.02.08-21.27.06:685][566]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.08-21.27.06:765][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH_lambert1_BaseColor.png)
+[2023.02.08-21.27.06:948][566]LogTexture: Display: Building textures: FireWoodPUSH_lambert1_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.27.07:300][566]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.07:300][566]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.07:343][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH_lambert1_Emissive.png)
+[2023.02.08-21.27.07:408][566]LogTexture: Display: Building textures: FireWoodPUSH_lambert1_Emissive (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.27.07:515][566]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.07:515][566]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.07:541][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH_lambert1_Height.png)
+[2023.02.08-21.27.07:575][566]LogTexture: Display: Building textures: FireWoodPUSH_lambert1_Height (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.27.07:830][566]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.07:830][566]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.07:834][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH_lambert1_Metallic.png)
+[2023.02.08-21.27.07:852][566]LogTexture: Display: Building textures: FireWoodPUSH_lambert1_Metallic (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.27.08:045][566]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.08:045][566]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.08:045][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH_lambert1_Normal.png)
+[2023.02.08-21.27.08:186][566]LogTexture: Display: Building textures: FireWoodPUSH_lambert1_Normal (OODLE_BC5, 2048X2048)
+[2023.02.08-21.27.08:350][566]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.08-21.27.08:350][566]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.08-21.27.08:397][566]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/Wood/FireWoodPUSH_lambert1_Roughness.png)
+[2023.02.08-21.27.08:443][566]LogTexture: Display: Building textures: FireWoodPUSH_lambert1_Roughness (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.27.08:852][566]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.08:852][566]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.27.08:950][566]LogSlate: Took 0.015050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.08-21.27.09:150][571]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.09:152][571]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.09:152][571]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.09:152][571]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.08-21.27.09:246][571]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.10:558][608]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-21.27.10:558][608]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.10:578][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-21.27.10:578][608]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.02.08-21.27.10:578][608]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.02.08-21.27.10:579][608]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.02.08-21.27.10:579][608]LogShaderCompilers: Display: ================================================
+[2023.02.08-21.27.10:745][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-21.27.10:745][614]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.11:048][623]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-21.27.11:087][623]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-21.27.12:852][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.02.08-21.27.14:050][685]LogSlate: Window 'Save Content' being destroyed
+[2023.02.08-21.27.14:137][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH78CB92C04B5F7E5477370EA528CADD97.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH.uasset'
+[2023.02.08-21.27.14:475][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH_lambert1_BaseColor38D9EF48470B757F9466F1BAE8D78143.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH_lambert1_BaseColor.uasset'
+[2023.02.08-21.27.14:583][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH_lambert1_Emissive3EE982C644FCABAA3BB5C4BBE80A0A7D.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH_lambert1_Emissive.uasset'
+[2023.02.08-21.27.14:696][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH_lambert1_HeightACB27FF1410F7D586AB8049E4F6F88E3.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH_lambert1_Height.uasset'
+[2023.02.08-21.27.14:728][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH_lambert1_Metallic90F3CF944889E02A569D03A8289A48D3.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH_lambert1_Metallic.uasset'
+[2023.02.08-21.27.15:117][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH_lambert1_NormalD97D8A7E47EC1F000D915F90BC2CFF7D.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH_lambert1_Normal.uasset'
+[2023.02.08-21.27.15:280][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/FireWoodPUSH_lambert1_RoughnessFB2DFA11403A44E1751745ACC13F25A2.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/FireWoodPUSH_lambert1_Roughness.uasset'
+[2023.02.08-21.27.15:317][685]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/lambert1D3A7A69C477DAD658CA0C89FFFC71CD6.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/lambert1.uasset'
+[2023.02.08-21.27.15:343][685]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-21.27.15:343][685]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wood/FireWoodPUSH_lambert1_Roughness.FireWoodPUSH_lambert1_Roughness
+[2023.02.08-21.27.15:343][685]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wood/FireWoodPUSH_lambert1_Normal.FireWoodPUSH_lambert1_Normal
+[2023.02.08-21.27.15:343][685]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wood/FireWoodPUSH_lambert1_Metallic.FireWoodPUSH_lambert1_Metallic
+[2023.02.08-21.27.15:344][685]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wood/FireWoodPUSH_lambert1_Height.FireWoodPUSH_lambert1_Height
+[2023.02.08-21.27.15:344][685]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wood/FireWoodPUSH_lambert1_Emissive.FireWoodPUSH_lambert1_Emissive
+[2023.02.08-21.27.15:344][685]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wood/FireWoodPUSH_lambert1_BaseColor.FireWoodPUSH_lambert1_BaseColor
+[2023.02.08-21.27.15:344][685]LogContentValidation: Display: Validating Material /Game/Assets/Wood/lambert1.lambert1
+[2023.02.08-21.27.15:344][685]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Wood/FireWoodPUSH.FireWoodPUSH
+[2023.02.08-21.27.16:978][736]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Wood/lambert1.lambert1
+[2023.02.08-21.27.16:982][736]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4E5A5FF44A579795315AD55AA6F6A7F13DBCFE39), compiling. 
+[2023.02.08-21.27.17:180][736]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D3A99BE92446B647A725010C3FEB1AEAD018904), compiling. 
+[2023.02.08-21.27.17:186][736]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 028F7A0021EBB5F159BD7C1120FC56AA24E87529), compiling. 
+[2023.02.08-21.27.17:190][736]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 027B272B79CB62D5393DBF0720A84B3C471EC9DD), compiling. 
+[2023.02.08-21.27.17:224][736]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.17:240][736]LogSlate: Took 0.008490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.08-21.27.17:423][737]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.08-21.27.17:423][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.08-21.27.17:423][737]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.08-21.27.17:423][737]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-21.27.17:463][738]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.17:463][738]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.17:463][738]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.17:463][738]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.26:884][967]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E66FBF50FB39A1B3C37DF7B0533DBC79899B8A8), compiling. 
+[2023.02.08-21.27.26:888][967]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.27.26:954][968]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.27:896][995]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-21.27.29:980][101]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: EAF88520E221136070892F86121FEDB1CD443A42), compiling. 
+[2023.02.08-21.27.29:983][101]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C8C4802C22EDF48A839C88E292E3F712B798BE88), compiling. 
+[2023.02.08-21.27.29:985][101]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6603828BCDC4B348C2574EDE5CC2A7D1153467A1), compiling. 
+[2023.02.08-21.27.29:989][101]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.30:058][103]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.30:058][103]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.30:058][103]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.30:058][103]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.30:060][103]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.08-21.27.30:060][103]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.08-21.27.30:060][103]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.08-21.27.30:060][103]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-21.27.37:225][384]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: BBDAB0BEFD2F3D27435B3D82BCBBC4BE7759A0F9), compiling. 
+[2023.02.08-21.27.37:227][384]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CA9ADC12DA3E5121FAC40C203E536BBEFD44DA45), compiling. 
+[2023.02.08-21.27.37:238][384]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.37:238][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.37:238][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.37:253][385]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.37:253][385]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.37:253][385]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.37:253][385]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.37:284][386]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.37:284][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.27.37:284][386]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.27.37:284][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.27.37:284][386]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.27.37:284][386]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.27.38:148][407]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-21.27.38:148][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.38:148][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.38:801][421]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.08-21.27.38:801][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.08-21.27.38:801][421]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.27.38:801][421]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-21.27.38:801][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.38:801][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.41:501][537]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40037BAF72950E59EF26220FE03A8AA5947643E6), compiling. 
+[2023.02.08-21.27.41:503][537]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 92F3F7F110ECCF422B0A1DB6C079B2BDEB75176C), compiling. 
+[2023.02.08-21.27.41:504][537]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0AD6B0B600DB33CDF78B1CCA190D95843A763943), compiling. 
+[2023.02.08-21.27.41:506][537]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: ACAEF84BF47F20BB415FDB32970998696A0FE756), compiling. 
+[2023.02.08-21.27.41:510][537]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.41:510][537]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.41:510][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.41:590][538]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.41:590][538]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.41:590][538]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.41:590][538]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.41:602][539]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.08-21.27.41:602][539]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.08-21.27.41:602][539]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.27.41:602][539]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-21.27.41:602][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.41:602][539]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.54:178][117]Cmd: DELETE
+[2023.02.08-21.27.54:178][117]Cmd: ACTOR DELETE
+[2023.02.08-21.27.54:181][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-21.27.54:203][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.08-21.27.54:209][117]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.02.08-21.27.56:132][205]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A082C545A083D49356BE5A6E688D24AC770EB3C), compiling. 
+[2023.02.08-21.27.56:134][205]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.56:134][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.56:134][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.56:200][207]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.08-21.27.56:200][207]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.08-21.27.56:201][207]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.27.56:201][207]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-21.27.56:201][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.56:201][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.59:000][354]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B00B55C5E1892910A8F9B0599A1B4478C79A1A13), compiling. 
+[2023.02.08-21.27.59:002][354]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C36F16A1B785B0F0DE221C1E299F1A63E25A6DBB), compiling. 
+[2023.02.08-21.27.59:004][354]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F8529423AE0223A4A13FA78CA05FE83274F9918B), compiling. 
+[2023.02.08-21.27.59:006][354]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BF262D14BFE6EEA88C54C00E7F217C3762739E0), compiling. 
+[2023.02.08-21.27.59:010][354]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.27.59:010][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.59:010][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.27.59:079][356]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.59:079][356]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.27.59:079][356]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.27.59:079][356]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.27.59:080][356]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.08-21.27.59:080][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.08-21.27.59:080][356]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.27.59:080][356]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-21.27.59:080][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.27.59:081][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.01:021][458]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B3D82FD8679E9634FE2FCAAC2D53B34C35965279), compiling. 
+[2023.02.08-21.28.01:024][458]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0956AB405C7804AB4FCA70067A76BA1B30023500), compiling. 
+[2023.02.08-21.28.01:029][458]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.28.01:029][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.28.01:029][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.01:042][459]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.01:042][459]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.28.01:042][459]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.28.01:042][459]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.02.08-21.28.01:054][460]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.01:724][474]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-21.28.01:724][474]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.02:118][481]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-21.28.02:118][481]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.02:175][482]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-21.28.02:175][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.28.02:175][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.03:267][538]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B3EC54EC50C3F123B32A758D8A46831380E5323E), compiling. 
+[2023.02.08-21.28.03:269][538]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 51E0E6BFE10B4CDCF3867597F1C704A4C93F2F2D), compiling. 
+[2023.02.08-21.28.03:271][538]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C77126E5F676AEFC9084E40EC740F7A603A1AB6D), compiling. 
+[2023.02.08-21.28.03:272][538]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 53B6810CB2BA29C30AFFBF8BF8D67317FA7BB253), compiling. 
+[2023.02.08-21.28.03:274][538]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 68415D55C7779E67BA0ACF24D5D25C9B2CA1D948), compiling. 
+[2023.02.08-21.28.03:277][538]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.28.03:277][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.28.03:277][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.03:331][540]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.03:332][540]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.28.03:332][540]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.28.03:332][540]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.03:333][540]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.08-21.28.03:333][540]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.08-21.28.03:333][540]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.28.03:333][540]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-21.28.03:333][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.28.03:333][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.05:604][684]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C085C47CC32A5A8C7A94FE118EAABACE105A93E), compiling. 
+[2023.02.08-21.28.05:606][684]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 884B50C65BC9E432D1460EC159BCE7355DF330C0), compiling. 
+[2023.02.08-21.28.05:610][684]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.28.05:610][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.28.05:610][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.05:621][685]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.28.05:636][686]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.06:405][702]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.28.06:405][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.28.06:405][702]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.07:024][722]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.08-21.28.07:024][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.02.08-21.28.07:024][722]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.28.07:024][722]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.28.07:024][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.28.07:024][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.10:662][888]LogMaterialEditor: Saving and Compiling material lambert1
+[2023.02.08-21.28.11:102][888]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 416665F414CDFE26E29A49DF09DBC23C0904B81B), compiling. 
+[2023.02.08-21.28.11:132][888]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D46F305AE7B88513C93F702BA096F9C6DC124F0), compiling. 
+[2023.02.08-21.28.11:144][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.08-21.28.11:156][888]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.11:470][888]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-21.28.11:470][888]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.28.11:491][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.08-21.28.11:597][888]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.11:603][888]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.08-21.28.11:603][888]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.08-21.28.11:603][888]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.08-21.28.11:603][888]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.08-21.28.11:603][888]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.08-21.28.11:603][888]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.28.11:685][888]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/lambert107003E7E48C9BF64F520ACB5E0B13E37.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/Wood/lambert1.uasset'
+[2023.02.08-21.28.11:702][888]AssetCheck: New page: Asset Save: lambert1
+[2023.02.08-21.28.11:702][888]LogContentValidation: Display: Validating Material /Game/Assets/Wood/lambert1.lambert1
+[2023.02.08-21.28.11:711][888]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.28.11:711][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.28.11:711][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.12:334][906]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.08-21.28.12:334][906]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.02.08-21.28.12:334][906]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.28.12:334][906]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.28.12:334][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.28.12:334][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.28.13:241][933]LogSlate: Window 'lambert1' being destroyed
+[2023.02.08-21.28.13:258][933]LogSlate: Window 'lambert1' being destroyed
+[2023.02.08-21.28.13:269][933]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-21.28.13:269][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-21.28.22:454][460]LogActorFactory: Actor Factory created FireWoodPUSH
+[2023.02.08-21.28.23:360][520]LogActorFactory: Actor Factory created FireWoodPUSH
+[2023.02.08-21.29.33:179][838]Cmd: TRANSACTION UNDO
+[2023.02.08-21.29.33:179][838]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.30.07:351][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.08-21.30.07:374][322]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap256A265B48AEEDB518B81190E13A1E3E.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.30.07:408][322]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.30.07:408][322]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.30.40:694][827]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.08-21.30.40:707][827]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.08-21.30.46:103][206]LogContentBrowser: Attempting asset rename: NewFolder -> EndTable
+[2023.02.08-21.30.46:104][206]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.08-21.31.01:169][684]LogEditorViewport: Clicking Background
+[2023.02.08-21.31.33:590][968]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTable.fbx)
+[2023.02.08-21.31.33:602][968]LogFbx: Loading FBX Scene from ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTable.fbx
+[2023.02.08-21.31.33:614][968]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.08-21.31.35:034][968]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.08-21.31.35:061][968]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 84611CE3EA4B39F199F6D4D3F5F7561B2786ED3E), compiling. 
+[2023.02.08-21.31.35:064][968]LogFbx: Display: Triangulating static mesh end_table
+[2023.02.08-21.31.35:078][968]LogStaticMesh: Building static mesh EndTable...
+[2023.02.08-21.31.35:092][968]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/EndTable/EndTable.EndTable
+[2023.02.08-21.31.35:102][968]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.08-21.31.35:221][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH_aiStandardSurface2_BaseColor.tga)
+[2023.02.08-21.31.35:304][968]LogTexture: Display: Building textures: EndTablePUSH_aiStandardSurface2_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.31.35:668][968]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.31.35:668][968]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.31.35:785][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH_aiStandardSurface2_Emissive.tga)
+[2023.02.08-21.31.35:884][968]LogTexture: Display: Building textures: EndTablePUSH_aiStandardSurface2_Emissive (OODLE_AutoDXT, 2048X2048)
+[2023.02.08-21.31.36:015][968]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.31.36:015][968]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.08-21.31.36:055][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH_aiStandardSurface2_Height.tga)
+[2023.02.08-21.31.36:068][968]LogTexture: Display: Building textures: EndTablePUSH_aiStandardSurface2_Height (BGRA8, 2048X2048)
+[2023.02.08-21.31.36:354][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH_aiStandardSurface2_Metallic.tga)
+[2023.02.08-21.31.36:362][968]LogTexture: Display: Building textures: EndTablePUSH_aiStandardSurface2_Metallic (BGRA8, 2048X2048)
+[2023.02.08-21.31.36:647][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH_aiStandardSurface2_Normal.tga)
+[2023.02.08-21.31.36:725][968]LogTexture: Display: Building textures: EndTablePUSH_aiStandardSurface2_Normal (OODLE_BC5, 2048X2048)
+[2023.02.08-21.31.36:867][968]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.08-21.31.36:868][968]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.08-21.31.36:932][968]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH_aiStandardSurface2_Roughness.tga)
+[2023.02.08-21.31.36:939][968]LogTexture: Display: Building textures: EndTablePUSH_aiStandardSurface2_Roughness (BGRA8, 2048X2048)
+[2023.02.08-21.31.37:670][988]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.37:670][988]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.31.37:670][988]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.31.37:670][988]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.37:700][988]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.08-21.31.37:707][988]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.38:820][ 23]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-21.31.38:820][ 23]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.38:839][ 23]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-21.31.38:839][ 23]LogShaderCompilers: Display: Total job queries 233, among them cache hits 145 (62.23%)
+[2023.02.08-21.31.38:839][ 23]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 48 distinct outputs (65.75%)
+[2023.02.08-21.31.38:839][ 23]LogShaderCompilers: Display: RAM used: 0.28 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.02.08-21.31.38:839][ 23]LogShaderCompilers: Display: ================================================
+[2023.02.08-21.31.38:999][ 29]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-21.31.38:999][ 29]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.39:205][ 35]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-21.31.39:247][ 35]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-21.31.40:487][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.08-21.31.41:790][ 78]LogSlate: Window 'Save Content' being destroyed
+[2023.02.08-21.31.41:867][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/aiStandardSurface22041A9B64D6DB62A0AF6EEAE0723FE06.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/aiStandardSurface2.uasset'
+[2023.02.08-21.31.41:906][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTableE1291CF94EFB85A551D9F5820CD3E455.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTable.uasset'
+[2023.02.08-21.31.42:265][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH_aiStandardSurface2_DB34640F49982F5B10AD3D9158F43557.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH_aiStandardSurface2_BaseColor.uasset'
+[2023.02.08-21.31.42:384][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH_aiStandardSurface2_D8ADD812441FDD0E58746BA7F81C25B2.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Emissive.uasset'
+[2023.02.08-21.31.42:440][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH_aiStandardSurface2_2447CEC24A236E2D05D5B9A388903CDB.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Height.uasset'
+[2023.02.08-21.31.42:484][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH_aiStandardSurface2_AC5D820345F07F98B6DF03BB67BD61B1.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Metallic.uasset'
+[2023.02.08-21.31.42:822][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH_aiStandardSurface2_72696D58430FC6E1CA2727B2D76D288C.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Normal.uasset'
+[2023.02.08-21.31.42:959][ 78]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH_aiStandardSurface2_E05E2F6443F9501562B328B0249C9F9A.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Roughness.uasset'
+[2023.02.08-21.31.42:991][ 78]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-21.31.42:991][ 78]LogContentValidation: Display: Validating Texture2D /Game/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Roughness.EndTablePUSH_aiStandardSurface2_Roughness
+[2023.02.08-21.31.42:991][ 78]LogContentValidation: Display: Validating Texture2D /Game/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Normal.EndTablePUSH_aiStandardSurface2_Normal
+[2023.02.08-21.31.42:991][ 78]LogContentValidation: Display: Validating Texture2D /Game/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Metallic.EndTablePUSH_aiStandardSurface2_Metallic
+[2023.02.08-21.31.42:992][ 78]LogContentValidation: Display: Validating Texture2D /Game/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Height.EndTablePUSH_aiStandardSurface2_Height
+[2023.02.08-21.31.42:992][ 78]LogContentValidation: Display: Validating Texture2D /Game/Assets/EndTable/EndTablePUSH_aiStandardSurface2_Emissive.EndTablePUSH_aiStandardSurface2_Emissive
+[2023.02.08-21.31.42:992][ 78]LogContentValidation: Display: Validating Texture2D /Game/Assets/EndTable/EndTablePUSH_aiStandardSurface2_BaseColor.EndTablePUSH_aiStandardSurface2_BaseColor
+[2023.02.08-21.31.42:992][ 78]LogContentValidation: Display: Validating StaticMesh /Game/Assets/EndTable/EndTable.EndTable
+[2023.02.08-21.31.42:992][ 78]LogContentValidation: Display: Validating Material /Game/Assets/EndTable/aiStandardSurface2.aiStandardSurface2
+[2023.02.08-21.31.43:632][ 95]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/EndTable/aiStandardSurface2.aiStandardSurface2
+[2023.02.08-21.31.43:634][ 95]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 35BADB66B33F3BD14AEDBDB2D9223DAE354BC46B), compiling. 
+[2023.02.08-21.31.43:790][ 95]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4485A0F930B9DC306D245C2630FD92D31B387E9C), compiling. 
+[2023.02.08-21.31.43:794][ 95]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 55E753A472CEF0525225BED45CA0A2B78DE74CA5), compiling. 
+[2023.02.08-21.31.43:799][ 95]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F92508A7213FCC16C2A8E994B5525D81BC095A75), compiling. 
+[2023.02.08-21.31.43:844][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.31.43:951][ 96]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.08-21.31.43:951][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.08-21.31.43:951][ 96]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.08-21.31.43:951][ 96]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-21.31.47:647][235]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 35534D0327510B80B992DF24A9E94734933D7306), compiling. 
+[2023.02.08-21.31.47:650][235]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.31.47:712][236]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.48:637][258]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-21.31.49:461][297]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 38454B985F1879A489ADC9AA7628D9E97059D03C), compiling. 
+[2023.02.08-21.31.49:463][297]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A43352061E46B1E76C13E37B2752A23DB7EBF2A), compiling. 
+[2023.02.08-21.31.49:465][297]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D2BF90151A8DF4E85845780F336E1E72B38BFED), compiling. 
+[2023.02.08-21.31.49:468][297]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.31.49:519][299]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.08-21.31.49:519][299]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.08-21.31.49:519][299]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.08-21.31.49:519][299]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-21.31.51:782][452]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: EE5AC08D644FA0A20635F8D61018359FEF82ADA0), compiling. 
+[2023.02.08-21.31.51:791][452]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1885C1B2BF80A83BEC727580B999700229931288), compiling. 
+[2023.02.08-21.31.51:795][452]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.31.51:795][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.31.51:795][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.31.51:806][453]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.51:818][454]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.53:200][496]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: B5D6843DEF26E8F2220F15F6498CA9CFBC828329), compiling. 
+[2023.02.08-21.31.53:202][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B90CA3DACA059538AECA9CD15FFA74B915901212), compiling. 
+[2023.02.08-21.31.53:204][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6CAFCA02628B2416223BE8BF108AF3C7318E00FF), compiling. 
+[2023.02.08-21.31.53:205][496]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FADDD318DF55358F7FAD595E559655D629E2304F), compiling. 
+[2023.02.08-21.31.53:257][498]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.53:257][498]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.31.53:257][498]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.31.53:257][498]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.53:259][498]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.08-21.31.53:259][498]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.08-21.31.53:259][498]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.31.53:259][498]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.08-21.31.53:259][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.08-21.31.53:259][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.31.55:828][667]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: B51F3BBE6A22653E40A350E5B5EB23FB8C3ED418), compiling. 
+[2023.02.08-21.31.55:830][667]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C59EF84349262020624706EA6DA2ED1980A19BBD), compiling. 
+[2023.02.08-21.31.55:834][667]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.31.55:834][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.31.55:835][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.31.55:847][668]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.55:847][668]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.31.55:847][668]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.31.55:847][668]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.55:862][669]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.55:862][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.31.55:863][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.31.55:863][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.31.55:863][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.31.55:863][669]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.31.56:669][686]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-21.31.56:669][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.31.56:669][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.31.57:263][701]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.08-21.31.57:263][701]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.08-21.31.57:263][701]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.31.57:263][701]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-21.31.57:263][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.31.57:263][701]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.31.58:200][759]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 54DFBC969EA2DBAF5C1E0D96C2DA84198776F1E3), compiling. 
+[2023.02.08-21.31.58:202][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6AD0A795BB4F42E909DE1EEBB2CFFBB4491DAEEC), compiling. 
+[2023.02.08-21.31.58:204][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C0F8B0A1B6798C176A780B366CA8D9C75C818B9D), compiling. 
+[2023.02.08-21.31.58:205][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F6BB0AB22E2C5BC2FA87E6F7EF3F6ADE087B611), compiling. 
+[2023.02.08-21.31.58:207][759]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: ACB5581401D7E6B9C6F6367E5729C67B0DF69DB7), compiling. 
+[2023.02.08-21.31.58:210][759]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.31.58:210][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.31.58:210][759]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.31.58:261][761]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.58:261][761]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.31.58:261][761]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.31.58:261][761]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.31.58:263][761]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.08-21.31.58:263][761]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.08-21.31.58:263][761]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.31.58:263][761]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.08-21.31.58:263][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.08-21.31.58:263][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.00:889][920]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6328E9734A95161440C80117F2DD52205E560CAA), compiling. 
+[2023.02.08-21.32.00:897][920]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: C9BBF33369C8EBB96206DD14F40CFD61E6CE8E08), compiling. 
+[2023.02.08-21.32.00:903][920]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.32.00:903][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.32.00:903][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.00:912][921]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.32.00:924][922]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.00:925][922]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.01:677][937]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.32.01:677][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.32.01:678][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.02:364][954]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.08-21.32.02:364][954]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.02.08-21.32.02:364][954]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.32.02:364][954]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.32.02:364][954]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.32.02:364][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.04:478][ 77]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: A9C9519D862C8B2C5423C06A610F3D0E5B6F9124), compiling. 
+[2023.02.08-21.32.04:481][ 77]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 36257D117E0A7F36CB0F3883AEFAC5EB72B974E3), compiling. 
+[2023.02.08-21.32.04:483][ 77]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7104235FE4C012917A78C8A47D7579DF8FFD944F), compiling. 
+[2023.02.08-21.32.04:484][ 77]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 16F5F61169C3E0BEA59C6AB6CC713B7B08195F55), compiling. 
+[2023.02.08-21.32.04:485][ 77]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 076E7F6165BFD087B6CB6A92E6D7CE74D8D5AEC8), compiling. 
+[2023.02.08-21.32.04:487][ 77]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 01398E4568C7B064D100C27892E67F80640B9CCD), compiling. 
+[2023.02.08-21.32.04:490][ 77]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.32.04:490][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.32.04:490][ 77]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.04:541][ 79]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.04:542][ 79]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.08-21.32.04:542][ 79]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.02.08-21.32.04:542][ 79]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.32.04:542][ 79]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.32.04:542][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.32.04:542][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.04:562][ 80]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.32.04:562][ 80]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.32.04:562][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.07:591][270]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B32B4F5FA7704A39FFA3E0E21D11BD69146706E), compiling. 
+[2023.02.08-21.32.07:593][270]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A9E753CE821C64A8CE5E17451E3C8F68B3F997A0), compiling. 
+[2023.02.08-21.32.07:597][270]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.32.07:597][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.07:597][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.07:608][271]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.07:608][271]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.32.07:608][271]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.32.07:608][271]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.07:627][272]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.07:628][272]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.32.07:628][272]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.32.07:628][272]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.32.07:628][272]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.32.07:628][272]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.08:405][288]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.32.08:405][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.08:406][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.09:008][307]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.02.08-21.32.09:008][307]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.02.08-21.32.09:008][307]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.32.09:008][307]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.32.09:008][307]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.09:008][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.09:414][326]LogMaterialEditor: Saving and Compiling material aiStandardSurface2
+[2023.02.08-21.32.09:662][326]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: D74E9073B8207836B293080AA8D8514329B2DFD0), compiling. 
+[2023.02.08-21.32.09:720][326]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: CAB784A6323862181A3111F0556F13CB239B5C9C), compiling. 
+[2023.02.08-21.32.09:773][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.02.08-21.32.09:781][326]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.10:101][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.02.08-21.32.10:101][326]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.10:125][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.08-21.32.10:215][326]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.10:223][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.02.08-21.32.10:223][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.02.08-21.32.10:223][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.02.08-21.32.10:223][326]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.02.08-21.32.10:223][326]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.02.08-21.32.10:223][326]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.10:322][326]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/aiStandardSurface27CD9E974450AC72495775887ADD544E9.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/aiStandardSurface2.uasset'
+[2023.02.08-21.32.10:337][326]AssetCheck: New page: Asset Save: aiStandardSurface2
+[2023.02.08-21.32.10:337][326]LogContentValidation: Display: Validating Material /Game/Assets/EndTable/aiStandardSurface2.aiStandardSurface2
+[2023.02.08-21.32.10:345][326]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.32.10:345][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.10:345][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.10:924][341]MaterialEditorStats: Texture samplers: 7/16
+[2023.02.08-21.32.10:924][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.10:924][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.10:955][342]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.02.08-21.32.10:955][342]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.02.08-21.32.10:955][342]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.32.10:955][342]MaterialEditorStats: Texture samplers: 7/16
+[2023.02.08-21.32.10:955][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.10:955][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.12:323][387]LogSlate: Window 'aiStandardSurface2' being destroyed
+[2023.02.08-21.32.12:339][387]LogSlate: Window 'aiStandardSurface2' being destroyed
+[2023.02.08-21.32.12:347][387]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-21.32.12:347][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-21.32.15:622][549]LogActorFactory: Actor Factory created EndTable
+[2023.02.08-21.32.16:391][605]LogActorFactory: Actor Factory created EndTable
+[2023.02.08-21.32.19:093][800]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EndTable_57.StaticMeshComponent0)
+[2023.02.08-21.32.19:094][800]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EndTable_57.StaticMeshComponent0)
+[2023.02.08-21.32.57:312][704]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/EndTable/aiStandardSurface2.aiStandardSurface2
+[2023.02.08-21.32.57:314][704]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DF78B8A78A147DC2DCFF694C1A06606FC82838E), compiling. 
+[2023.02.08-21.32.57:329][704]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.57:457][704]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D6D518D8105E2F59853FA4D32858369034A66DFB), compiling. 
+[2023.02.08-21.32.57:461][704]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AA6051B5B0D77EC080DA9CAB2B93A7C9113DBAEC), compiling. 
+[2023.02.08-21.32.57:464][704]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 06C593C1C0E4108FDADF12EAAA7FA76E07844E53), compiling. 
+[2023.02.08-21.32.57:467][704]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 146215361EBE3C51A01DFDE92218F475D2E8A04C), compiling. 
+[2023.02.08-21.32.57:470][704]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 48B495778B0C0A05377192761E25EA190B6F806A), compiling. 
+[2023.02.08-21.32.57:473][704]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D9DF3AB0C53C50CB35D3C85E412EB7AEC43D63A), compiling. 
+[2023.02.08-21.32.57:502][704]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.32.57:502][704]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.57:502][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.32.57:581][705]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.32.57:582][705]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.32.57:689][708]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.57:690][708]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.02.08-21.32.57:690][708]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.08-21.32.57:690][708]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.57:810][711]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.58:852][738]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.02.08-21.32.58:852][738]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.58:921][740]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.02.08-21.32.58:921][740]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.32.59:134][746]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.32.59:134][746]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.32.59:134][746]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.33.01:081][828]MaterialEditorStats: Base pass shader: 130 instructions
+[2023.02.08-21.33.01:081][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.02.08-21.33.01:081][828]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.33.01:081][828]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.33.01:081][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.02.08-21.33.01:081][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.33.08:951][182]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C413DA83D9BE302DB97E15C5CEFC5BC2C0AB28C3), compiling. 
+[2023.02.08-21.33.08:954][182]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-21.33.08:954][182]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.33.08:954][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.02.08-21.33.08:995][183]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.33.09:816][208]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.08-21.33.09:816][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.33.09:816][208]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.33.10:295][220]LogMaterialEditor: Saving and Compiling material aiStandardSurface2
+[2023.02.08-21.33.10:532][220]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A6FFFF87C376740DA38640FA417D05B9C64633A), compiling. 
+[2023.02.08-21.33.10:589][220]LogMaterial: Display: Missing cached shadermap for aiStandardSurface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2145F597744B54B2D0C337AE9D171BB3E5D9EAE5), compiling. 
+[2023.02.08-21.33.10:607][220]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.33.10:616][220]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.02.08-21.33.10:616][220]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.33.10:616][220]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.02.08-21.33.10:661][220]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.33.10:681][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.02.08-21.33.11:611][220]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.02.08-21.33.11:611][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.08-21.33.11:611][220]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.02.08-21.33.11:611][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.08-21.33.11:626][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.08-21.33.12:083][220]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/aiStandardSurface2CF9E06B746565221ED34FAAE76711E2F.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/aiStandardSurface2.uasset'
+[2023.02.08-21.33.12:094][220]AssetCheck: New page: Asset Save: aiStandardSurface2
+[2023.02.08-21.33.12:094][220]LogContentValidation: Display: Validating Material /Game/Assets/EndTable/aiStandardSurface2.aiStandardSurface2
+[2023.02.08-21.33.12:096][220]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.08-21.33.12:096][220]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.02.08-21.33.12:096][220]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.08-21.33.12:096][220]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.08-21.33.12:096][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-21.33.12:096][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.08-21.33.13:336][259]LogSlate: Window 'aiStandardSurface2' being destroyed
+[2023.02.08-21.33.13:352][259]LogSlate: Window 'aiStandardSurface2' being destroyed
+[2023.02.08-21.33.13:359][259]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-21.33.13:359][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-21.34.14:854][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.08-21.34.16:194][316]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.08-21.34.16:230][316]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/EndTable/EndTable.EndTable
+[2023.02.08-21.34.17:856][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.08-21.34.17:883][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.08-21.34.17:893][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.08-21.34.20:458][475]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.08-21.34.20:486][475]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.08-21.34.24:355][714]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.02.08-21.34.24:355][714]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.08-21.34.29:607][969]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH.fbx)
+[2023.02.08-21.34.29:616][969]LogFbx: Loading FBX Scene from ../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/2 Dimensional Game Design/Room and Furniture/assets/EndTable/EndTablePUSH.fbx
+[2023.02.08-21.34.29:623][969]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.08-21.34.30:928][969]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.08-21.34.30:949][969]LogFbx: Display: Triangulating static mesh end_table
+[2023.02.08-21.34.30:964][969]LogStaticMesh: Building static mesh EndTablePUSH...
+[2023.02.08-21.34.30:973][969]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/EndTable/EndTablePUSH.EndTablePUSH
+[2023.02.08-21.34.30:982][969]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.08-21.34.32:827][ 43]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-21.34.32:846][ 43]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-21.34.40:808][508]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/EndTable/EndTablePUSH.EndTablePUSH
+[2023.02.08-21.34.43:532][563]LogSlate: Window 'EndTablePUSH' being destroyed
+[2023.02.08-21.34.43:547][563]LogSlate: Window 'EndTablePUSH' being destroyed
+[2023.02.08-21.34.43:549][563]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-21.34.43:549][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-21.34.44:434][595]LogActorFactory: Actor Factory created EndTablePUSH
+[2023.02.08-21.34.45:150][624]LogActorFactory: Actor Factory created EndTablePUSH
+[2023.02.08-21.35.56:393][ 87]LogEditorViewport: Clicking Background
+[2023.02.08-21.36.11:471][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EndTablePUSH)
+[2023.02.08-21.36.31:443][917]Cmd: TRANSACTION UNDO
+[2023.02.08-21.36.31:443][917]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.36.33:468][ 10]Cmd: TRANSACTION UNDO
+[2023.02.08-21.36.33:468][ 10]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.36.48:085][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.08-21.36.49:655][ 71]LogSlate: Window 'Save Content' being destroyed
+[2023.02.08-21.36.49:738][ 71]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSHB872D26048C50D08DDE53C83114E69E5.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH.uasset'
+[2023.02.08-21.36.49:749][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.08-21.36.49:767][ 71]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap520CB9A64A35FD67ABAEB883B6058D87.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.36.49:778][ 71]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.038
+[2023.02.08-21.36.49:796][ 71]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-21.36.49:796][ 71]LogContentValidation: Display: Validating StaticMesh /Game/Assets/EndTable/EndTablePUSH.EndTablePUSH
+[2023.02.08-21.36.49:796][ 71]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.36.52:989][169]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/EndTablePUSH64E35AE843BA9FEB9AD8A1B17A43CE14.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/Assets/EndTable/EndTablePUSH.uasset'
+[2023.02.08-21.36.53:003][169]AssetCheck: New page: Asset Save: EndTablePUSH
+[2023.02.08-21.36.53:003][169]LogContentValidation: Display: Validating StaticMesh /Game/Assets/EndTable/EndTablePUSH.EndTablePUSH
+[2023.02.08-21.37.30:686][931]LogActorFactory: Actor Factory created Frame1
+[2023.02.08-21.37.31:596][978]LogActorFactory: Actor Factory created Frame1
+[2023.02.08-21.37.38:486][432]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Frame1_64.StaticMeshComponent0)
+[2023.02.08-21.37.38:498][433]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Frame1_64.StaticMeshComponent0)
+[2023.02.08-21.38.04:142][407]LogEditorViewport: Clicking Background
+[2023.02.08-21.38.09:448][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.02.08-21.38.09:481][816]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap78773B5B4AC5526F119AA3B7EA648301.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.38.09:517][816]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.38.09:517][816]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.38.13:021][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Frame1)
+[2023.02.08-21.38.38:624][ 57]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.02.08-21.39.28:221][918]Cmd: TRANSACTION UNDO
+[2023.02.08-21.39.28:221][918]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.39.46:130][145]Cmd: TRANSACTION UNDO
+[2023.02.08-21.39.46:130][145]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.39.49:588][341]Cmd: TRANSACTION UNDO
+[2023.02.08-21.39.49:588][341]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.39.51:376][409]Cmd: TRANSACTION UNDO
+[2023.02.08-21.39.51:376][409]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.40.04:699][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Frame2)
+[2023.02.08-21.40.35:214][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.08-21.40.35:238][675]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap63FA8DAC4309EF552C756D822285CD5C.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.40.35:264][675]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.40.35:264][675]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.40.53:279][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms

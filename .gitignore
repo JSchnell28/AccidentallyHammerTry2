@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+AccidentHammerV3/Saved/Logs/AccidentHammerV3.log
+AccidentHammerV3/Saved/Logs/AccidentHammerV3_2.log

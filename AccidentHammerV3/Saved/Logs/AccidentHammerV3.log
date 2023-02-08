@@ -2047,3 +2047,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.08-21.40.35:264][675]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2023.02.08-21.40.35:264][675]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2023.02.08-21.40.53:279][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.02.08-21.42.10:001][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.08-21.42.10:036][ 13]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMapB083341F4ED1B6819475518B96EEF966.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.42.10:068][ 13]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.42.10:068][ 13]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.42.10:217][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.02.08-21.42.10:250][ 17]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap8F67664241994216A74E6F9CB84425B4.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.42.10:284][ 17]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.42.10:284][ 17]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap

@@ -1135,3 +1135,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.08-20.52.43:672][898]LogEditorActor: Deleted Actor: StaticMeshActor
 [2023.02.08-20.52.43:692][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2023.02.08-20.52.43:694][898]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.02.08-20.53.48:640][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.02.08-20.53.48:675][161]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap_Auto1518ADC464415A88584C58BAFB602EF8C.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.02.08-20.53.48:682][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2023.02.08-20.53.48:682][161]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.02.08-20.56.52:612][ 68]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.56.52:898][ 82]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.56.53:846][112]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.56.54:084][122]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.56.54:918][148]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.56.55:255][163]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.57.09:683][286]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.57.10:007][300]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.57.21:208][728]Cmd: DELETE
+[2023.02.08-20.57.21:208][728]Cmd: ACTOR DELETE
+[2023.02.08-20.57.21:211][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-20.57.21:211][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-20.57.21:212][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-20.57.21:212][728]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-20.57.21:231][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.08-20.57.21:233][728]LogEditorActor: Deleted 4 Actors (0.025 secs)
+[2023.02.08-20.57.33:042][947]LogEditorViewport: Clicking Background
+[2023.02.08-20.58.34:917][ 81]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.58.35:645][124]LogActorFactory: Actor Factory created Floor
+[2023.02.08-20.59.39:661][744]LogActorFactory: Actor Factory created Wall
+[2023.02.08-20.59.40:973][819]LogActorFactory: Actor Factory created Wall
+[2023.02.08-20.59.41:743][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.02.08-21.00.41:775][ 19]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Wall/Wall.Wall
+[2023.02.08-21.00.41:876][ 19]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.08-21.00.42:041][ 19]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.08-21.00.42:928][ 20]LogRenderer: Reallocating scene render targets to support 804x448 Format 10 NumSamples 1 (Frame:1).
+[2023.02.08-21.01.32:431][125]LogSlate: Window 'Wall' being destroyed
+[2023.02.08-21.01.32:440][125]LogSlate: Window 'Wall' being destroyed
+[2023.02.08-21.01.32:447][125]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-21.01.32:447][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-21.02.07:004][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-21.03.13:101][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.02.08-21.03.16:020][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.02.08-21.03.16:581][103]Cmd: DELETE
+[2023.02.08-21.03.16:582][103]Cmd: ACTOR DELETE
+[2023.02.08-21.03.16:584][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.02.08-21.03.16:605][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.02.08-21.03.16:611][103]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.02.08-21.03.17:462][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.02.08-21.03.23:894][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.02.08-21.03.34:907][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-21.03.57:118][510]Cmd: TRANSACTION UNDO
+[2023.02.08-21.03.57:118][510]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.04:921][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.02.08-21.04.06:876][ 25]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.06:876][ 25]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.14:725][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-21.04.32:221][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2023.02.08-21.04.36:589][721]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.36:589][721]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.38:674][800]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.38:674][800]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.40:616][892]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.40:616][892]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.42:430][  0]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.42:430][  0]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.45:988][212]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.45:988][212]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.50:201][394]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.50:201][394]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.04.52:461][482]Cmd: TRANSACTION UNDO
+[2023.02.08-21.04.52:461][482]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.05.00:703][963]Cmd: EDIT COPY
+[2023.02.08-21.05.01:007][981]Cmd: EDIT PASTE
+[2023.02.08-21.05.04:823][207]LogEditorViewport: Clicking Background
+[2023.02.08-21.05.07:813][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-21.05.08:506][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-21.05.08:856][436]Cmd: EDIT COPY
+[2023.02.08-21.05.09:156][451]Cmd: EDIT PASTE
+[2023.02.08-21.05.16:901][903]LogEditorViewport: Clicking Background
+[2023.02.08-21.05.17:792][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-21.05.20:448][112]LogEditorViewport: Clicking Background
+[2023.02.08-21.05.23:904][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-21.05.26:018][443]Cmd: EDIT COPY
+[2023.02.08-21.05.26:284][459]Cmd: EDIT PASTE
+[2023.02.08-21.05.35:817][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-21.05.37:543][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.02.08-21.06.08:891][  0]LogEditorViewport: Clicking Background
+[2023.02.08-21.06.11:232][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall)
+[2023.02.08-21.06.29:593][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-21.06.30:187][262]LogEditorViewport: Clicking Background
+[2023.02.08-21.06.37:273][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-21.06.50:838][494]Cmd: TRANSACTION UNDO
+[2023.02.08-21.06.50:838][494]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.06.53:029][576]Cmd: TRANSACTION UNDO
+[2023.02.08-21.06.53:029][576]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.06.54:200][628]LogEditorViewport: Clicking Background
+[2023.02.08-21.07.08:535][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2023.02.08-21.07.12:643][727]LogEditorViewport: Clicking Background
+[2023.02.08-21.07.14:216][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.02.08-21.07.20:374][187]LogEditorViewport: Clicking Background
+[2023.02.08-21.07.30:346][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.08-21.07.31:867][750]LogSlate: Window 'Save Content' being destroyed
+[2023.02.08-21.07.40:843][106]LogEditorViewport: Clicking Background
+[2023.02.08-21.07.44:851][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.02.08-21.07.48:926][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2023.02.08-21.07.53:284][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2023.02.08-21.08.06:769][640]LogEditorViewport: Clicking Background
+[2023.02.08-21.08.14:681][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2023.02.08-21.08.22:094][555]LogEditorViewport: Clicking Background
+[2023.02.08-21.08.23:633][647]Cmd: TRANSACTION UNDO
+[2023.02.08-21.08.23:633][647]LogEditorTransaction: Undo Clicking Background
+[2023.02.08-21.08.24:136][657]Cmd: TRANSACTION UNDO
+[2023.02.08-21.08.24:136][657]LogEditorTransaction: Undo Rotate Actors
+[2023.02.08-21.08.25:170][702]LogEditorViewport: Clicking Background
+[2023.02.08-21.08.26:184][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.08-21.08.26:209][748]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap044130C74A95D24A9BEB52AB11D3F604.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.08.26:253][748]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.08.26:253][748]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.08.32:670][ 91]LogActorFactory: Actor Factory created Fireplace
+[2023.02.08-21.08.35:568][244]LogActorFactory: Actor Factory created Fireplace
+[2023.02.08-21.08.44:638][762]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Fireplace_31.StaticMeshComponent0)
+[2023.02.08-21.08.44:752][769]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Fireplace_31.StaticMeshComponent0)
+[2023.02.08-21.09.09:164][226]Cmd: TRANSACTION UNDO
+[2023.02.08-21.09.09:164][226]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.09.53:911][837]LogEditorViewport: Clicking Background
+[2023.02.08-21.09.54:699][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fireplace)
+[2023.02.08-21.10.05:686][528]LogEditorViewport: Clicking Background
+[2023.02.08-21.10.09:764][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.08-21.10.09:792][744]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap93E622A34C2D942639AA52ACCE0ACE6A.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.10.09:819][744]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.10.09:819][744]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.10.12:484][864]LogActorFactory: Actor Factory created FireCagePUSH
+[2023.02.08-21.10.13:659][933]LogActorFactory: Actor Factory created FireCagePUSH
+[2023.02.08-21.10.13:939][947]LogActorFactory: Actor Factory created FireCagePUSH
+[2023.02.08-21.10.28:138][779]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.FireCagePUSH_38.StaticMeshComponent0)
+[2023.02.08-21.10.28:139][779]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.FireCagePUSH_38.StaticMeshComponent0)
+[2023.02.08-21.10.43:872][710]Cmd: TRANSACTION UNDO
+[2023.02.08-21.10.43:872][710]LogEditorTransaction: Undo Scale Actors
+[2023.02.08-21.11.19:097][756]Cmd: TRANSACTION UNDO
+[2023.02.08-21.11.19:097][756]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.12.37:552][391]LogEditorViewport: Clicking Background
+[2023.02.08-21.12.39:031][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.02.08-21.12.39:058][477]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMapA4E6DF9942762453EAF89481951F517D.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.12.39:082][477]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.12.39:082][477]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.12.53:838][303]LogActorFactory: Actor Factory created Table
+[2023.02.08-21.12.55:580][398]LogActorFactory: Actor Factory created Table
+[2023.02.08-21.13.24:953][129]Cmd: TRANSACTION UNDO
+[2023.02.08-21.13.24:953][129]LogEditorTransaction: Undo Move Actors
+[2023.02.08-21.14.18:100][200]LogEditorViewport: Clicking Background
+[2023.02.08-21.14.20:757][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2023.02.08-21.14.23:485][519]LogEditorViewport: Clicking Background
+[2023.02.08-21.14.27:304][701]LogActorFactory: Actor Factory created TV
+[2023.02.08-21.14.28:264][754]LogActorFactory: Actor Factory created TV
+[2023.02.08-21.15.29:814][412]Cmd: TRANSACTION UNDO
+[2023.02.08-21.15.29:815][412]LogEditorTransaction: Undo Rotate Actors
+[2023.02.08-21.15.38:546][882]Cmd: TRANSACTION UNDO
+[2023.02.08-21.15.38:546][882]LogEditorTransaction: Undo Rotate Actors
+[2023.02.08-21.15.39:128][895]LogEditorViewport: Clicking Background
+[2023.02.08-21.15.41:868][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TV)
+[2023.02.08-21.16.03:740][339]LogEditorViewport: Clicking Background
+[2023.02.08-21.16.13:508][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.08-21.16.13:538][921]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMapE24D467E438D59804E0B22B543CBC320.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.16.13:567][921]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.16.13:567][921]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.08-21.16.22:160][404]LogActorFactory: Actor Factory created Frame1
+[2023.02.08-21.16.24:984][557]LogActorFactory: Actor Factory created Frame1
+[2023.02.08-21.16.32:128][978]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Frame1_48.StaticMeshComponent0)
+[2023.02.08-21.16.32:129][978]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Frame1_48.StaticMeshComponent0)
+[2023.02.08-21.17.15:932][547]LogActorFactory: Actor Factory created Frame2
+[2023.02.08-21.17.16:596][574]LogActorFactory: Actor Factory created Frame2
+[2023.02.08-21.18.07:899][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Frame1)
+[2023.02.08-21.18.20:053][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.08-21.18.20:083][302]LogSavePackage: Moving '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Saved/ThirdPersonExampleMap9C82C35245990DAC713C7BAF4597038A.tmp' to '../../../../../../Users/HolthusenAndrew/OneDrive - University of Wisconsin-Stout/Documents/Unreal Projects/AccidentallyHammerTry2/AccidentHammerV3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.08-21.18.20:113][302]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.02.08-21.18.20:113][302]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap

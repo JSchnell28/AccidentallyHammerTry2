@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 AccidentHammerV3/Saved/Logs/AccidentHammerV3.log
 AccidentHammerV3/Saved/Logs/AccidentHammerV3_2.log
+*.ini
+*.json
+AccidentHammerV3/Intermediate/CachedAssetRegistry.bin

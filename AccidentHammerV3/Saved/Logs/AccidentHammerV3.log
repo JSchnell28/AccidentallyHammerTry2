@@ -5591,3 +5591,4 @@ SleepField_BP_C.ReceiveTick
 [2023.02.08-21.56.38:233][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2023.02.08-21.56.38:243][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
 [2023.02.08-21.56.38:284][599]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.02.08-22.01.03:703][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
